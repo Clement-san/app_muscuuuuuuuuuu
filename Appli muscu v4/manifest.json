@@ -1,0 +1,16 @@
+{
+  "name": "Muscu – suivi d'entraînement",
+  "short_name": "Muscu",
+  "description": "Suivi de séances de musculation, 100 % local et hors ligne.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f0e9",
+  "theme_color": "#f3f0e9",
+  "icons": [
+    { "src": "icon-192.png?v=7", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png?v=7", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
